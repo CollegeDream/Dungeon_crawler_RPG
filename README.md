@@ -1,4 +1,4 @@
-This is the README file for the dungeon crawler project
+This is the README file for the dungeon crawler project. It is a collaboration between 3 group members to create a game for our database course.
 
 ER/UML Diagram included in Project1Final.docx
 Table Relation screenshots from our discord channels including relational connections, primary and forgien keys, and other additional documented information included on the .docx file.
